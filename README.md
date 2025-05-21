@@ -23,10 +23,10 @@ This project analyzes user interaction with a mobile application using event-bas
 - **SQL** (Google BigQuery)
 - **GA4 schema**: event-based data structure with nested fields
 - **Data period**: `2021-01-01` to `2021-01-07`
-- 
+  
 ## 📊 Main Metrics
 
-### 🔹 1. Daily Active Users (DAU)
+1. Daily Active Users (DAU)
 Number of unique users per day.
 
  2. Retention Rate

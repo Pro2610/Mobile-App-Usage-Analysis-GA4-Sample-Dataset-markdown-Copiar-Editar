@@ -26,10 +26,10 @@ This project analyzes user interaction with a mobile application using event-bas
   
 ## 📊 Main Metrics
 
-1. Daily Active Users (DAU)
+🔹 1. Daily Active Users (DAU)
 Number of unique users per day.
 
- 2. Retention Rate
+🔹 2. Retention Rate
 Metric	Description
 Day 2 Retention	% of users who returned 2 days after signup
 Day 7 Retention	% of users who returned 7 days after signup
